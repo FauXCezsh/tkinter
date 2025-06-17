@@ -1,0 +1,7 @@
+#GRAPHICAL USER INTERFACE
+#REALLY GOOD GUI I THINK and very important
+
+from tkinter import *
+window = Tk()
+
+window.mainloop()
